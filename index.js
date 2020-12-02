@@ -493,7 +493,7 @@ function play(guild, song) {
     });
 }
 
-bot.login(process.env.BOT_TOKEN);
+bot.login(NzgzNzcyMjMwMTU2OTQzNDMw.X8fmxQ.hgkm-AwxrIwoEa_WRGtMgFHbjJE);
 
 process.on("unhandledRejection", (reason, promise) => {
     try {
